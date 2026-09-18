@@ -11,3 +11,4 @@ Singularity
 Kopernicus
 KSPTextureLoader
 ModularFlightIntegrator
+Duckweed's vertexcolormapemissive
