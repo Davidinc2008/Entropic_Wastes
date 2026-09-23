@@ -16,6 +16,6 @@ Duckweed's vertexcolormapemissive
 
 Credits:
 
-ProximaCentauri for letting steal "borrow" Sanctar's configs and helping me out. https://github.com/ProximaCentauri-star
+ProximaCentauri for letting "borrow" Sanctar's configs and helping me out. https://github.com/ProximaCentauri-star
 PsdDude for the lava texture https://www.psd-dude.com/tutorials/create-lava-rock-texture-in-photoshop.aspx
 Tangram Heightmapper for samples used in heightmaps https://tangrams.github.io/heightmapper/
